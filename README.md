@@ -15,9 +15,9 @@ Add this package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-	jsonfeed:
-		git:
-			url: https://github.com/imprologic/json_feed.git
+  jsonfeed:
+    git:
+      url: https://github.com/imprologic/json_feed.git
 ```
 
 Import and use in your Dart code:
