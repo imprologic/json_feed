@@ -1,7 +1,6 @@
-
 # JsonFeed Parser for Dart
 
-A Dart library for parsing [JSON Feed](https://jsonfeed.org/version/1) format feeds. This package provides strongly-typed models and utilities for working with JSON Feed data, including validation and error handling.
+A Dart library for parsing [JSON Feed](https://www.jsonfeed.org/version/1.1/) format feeds. This package provides strongly-typed models and utilities for working with JSON Feed data, including validation and error handling.
 
 ## Features
 
