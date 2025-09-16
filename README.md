@@ -62,3 +62,7 @@ dart test
 
 See [LICENSE](LICENSE).
 
+## Links
+
+- Github: https://github.com/imprologic/json_feed
+- pub.dev: https://pub.dev/packages/json_feed
