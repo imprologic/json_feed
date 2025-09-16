@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.1] - 2025-09-16
+### Added
+- Trying to fix `repository` entry on `pub.dev`
+
 ## [0.1.0] - 2025-09-16
 ### Added
 - Initial release of the package.
