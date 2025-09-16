@@ -1,6 +1,6 @@
 name: json_feed
 description: A Dart implementation of JSON Feed v1.1 with freezed/json_serializable codegen.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/imprologic/json_feed
 issue_tracker: https://github.com/imprologic/json_feed/issues
 
